@@ -1,14 +1,12 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: document
   path: production
   label: Production
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Content
 - type: directory
