@@ -2,7 +2,7 @@
     <header class="header">
         <nav class="nav">
             <NuxtLink to="/">
-                <h1>The Blog Title</h1>
+                <h1>Domaine Fournier Larabi</h1>
             </NuxtLink>
             <div>
                 <h1>
